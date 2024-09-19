@@ -1,4 +1,7 @@
-## Hi there 👋
+## Siwan College Of Engineering & Management
+
+- Islamia Nagar, Surapur, Siwan, Bihar, 841226
+
 
 <!--
 **siwanscem/siwanscem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
